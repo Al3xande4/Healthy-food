@@ -14,7 +14,7 @@
     background-position-x: center;
     background-size: 1440px;
     /* linear-gradient(rgba(26, 26, 26, 0.01), rgba(26, 26, 26, 1)), linear-gradient(rgba(33, 33, 33, 0.5), rgba(33, 33, 33, 0.5)), url("/img/main-background\ \(2\).jpg") */
-    background-image: url("/img/background-image.jpg"), linear-gradient(#1A1A1A, #1A1A1A);
+    background-image: url("../img/background-image.jpg"), linear-gradient(#1A1A1A, #1A1A1A);
     background-repeat: no-repeat;
     background-color: grey;
 }
@@ -144,7 +144,7 @@ h1{
     font-weight: 200;
     text-transform: capitalize;
     text-align: center;
-    background-image: url("/img/ABOUT.svg");
+    background-image: url("../img/ABOUT.svg");
     background-repeat: no-repeat;
     background-position-x: center;
     background-size: 30%;
@@ -178,7 +178,7 @@ h1{
     color: #D9D9D9;
     text-transform: capitalize;
     text-align: center;
-    background-image: url("/img/EVENTS.svg");
+    background-image: url("../img/EVENTS.svg");
     background-repeat: no-repeat;
     background-position: center;
     letter-spacing: 7px;
@@ -251,7 +251,7 @@ h1{
     color: #D9D9D9;
     text-transform: capitalize;
     text-align: center;
-    background-image: url("/img/DISHES.svg");
+    background-image: url("../img/DISHES.svg");
     background-repeat: no-repeat;
     background-position: center;
     letter-spacing: 7px;
@@ -369,7 +369,7 @@ a{
     color: #D9D9D9;
     text-transform: capitalize;
     text-align: center;
-    background-image: url("/img/CHEFS.svg");
+    background-image: url("../img/CHEFS.svg");
     background-repeat: no-repeat;
     background-position: center;
     letter-spacing: 7px;
@@ -441,7 +441,7 @@ a{
     color: #D9D9D9;
     text-transform: capitalize;
     text-align: center;
-    background-image: url("/img/Social.svg");
+    background-image: url("../img/Social.svg");
     background-repeat: no-repeat;
     background-position: center;
     letter-spacing: 5px;
