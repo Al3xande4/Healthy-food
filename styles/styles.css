@@ -5,18 +5,13 @@
 }
 
 .container{
-    width: 1110px;
+    width: 1100px;
     margin: 0 auto;
 }
 .main-container{
     width: 1440px;
     margin: 0 auto;
-    background-position-x: center;
-    background-size: 1440px;
-    /* linear-gradient(rgba(26, 26, 26, 0.01), rgba(26, 26, 26, 1)), linear-gradient(rgba(33, 33, 33, 0.5), rgba(33, 33, 33, 0.5)), url("/img/main-background\ \(2\).jpg") */
-    background-image: url("../img/background-image.jpg"), linear-gradient(#1A1A1A, #1A1A1A);
-    background-repeat: no-repeat;
-    background-color: grey;
+    background-color: #1A1A1A;
 }
 
 .main-navigation{
@@ -54,6 +49,14 @@
 }
 .logo-text{
     grid-area: title;
+}
+
+.main-background{
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    text-align: center;
+    background-image: linear-gradient();
 }
 
 .restaurant-info{
